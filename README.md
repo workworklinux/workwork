@@ -4,6 +4,8 @@
 
 "cross-platform" python port of neil cicerega's WORK TIMER. rough aesthetic accuracy with a few minor new features. tested on linux mint 21.2, should work on any. mac may only work if run as root due to pynput library limitations.
 
+the original can be found on [neil's tumblr](https://neilblr.com/post/58757345346) or [site](https://www.neilcic.com/work.zip). if you are on windows you should use it instead.
+
 ## installation
 install required pip libraries, clone repo and run
 ```bash
