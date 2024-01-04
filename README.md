@@ -10,7 +10,7 @@ install required pip libraries, clone repo and run
 pip install wxpython pyyaml pynput
 git clone https://github.com/workworklinux/workwork.git
 cd workwork
-python3 workwork.py
+python3 work.py
 ```
 configuration yaml files are stored in ~/.workwork/config.yaml. background and text color can be changed here as a bonus. 
 
