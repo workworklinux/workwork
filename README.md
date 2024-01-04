@@ -7,7 +7,7 @@
 the original can be found on [neil's tumblr](https://neilblr.com/post/58757345346) or [site](https://www.neilcic.com/work.zip). if you are on windows you should use it instead.
 
 ## installation
-install required pip libraries, clone repo and run
+install required pip libraries, clone repo and run [or grab the release. you'll still need the libraries]
 ```bash
 pip install wxpython pyyaml pynput
 git clone https://github.com/workworklinux/workwork.git
@@ -18,7 +18,7 @@ configuration yaml files are stored in ~/.workwork/config.yaml. background and t
 
 ## limitations
 - probably doesn't work on a lot of shit but notably Fucked on wayland. everything here is x11 based. anyone willing to contribute please !! go on ahead
-- some applications [like krita] run temporary executables. these will not persist once they are closed and will have to be re-selected on next program launch.
+- some applications [like krita] run temporary executables. these will not persist once they are closed and will have to be re-selected on next program launch
 - looks cropped and Wrong when launched because of wxpython limitations with rendering styled text
 
 ### advantages
