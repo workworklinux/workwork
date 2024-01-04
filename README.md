@@ -10,13 +10,14 @@ install required pip libraries, clone repo and run
 pip install wxpython pyyaml pynput
 git clone https://github.com/workworklinux/workwork.git
 cd workwork
-python3 workwork.py
+python3 work.py
 ```
 configuration yaml files are stored in ~/.workwork/config.yaml. background and text color can be changed here as a bonus. 
 
 ## limitations
 - probably doesn't work on a lot of shit but notably Fucked on wayland. everything here is x11 based. anyone willing to contribute please !! go on ahead
 - some applications [like krita] run temporary executables. these will not persist once they are closed and will have to be re-selected on next program launch.
+- looks cropped and Wrong when launched because of wxpython limitations with rendering styled text
 
 ### advantages
 - works
