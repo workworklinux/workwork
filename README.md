@@ -17,6 +17,7 @@ configuration yaml files are stored in ~/.workwork/config.yaml. background and t
 ## limitations
 - probably doesn't work on a lot of shit but notably Fucked on wayland. everything here is x11 based. anyone willing to contribute please !! go on ahead
 - some applications [like krita] run temporary executables. these will not persist once they are closed and will have to be re-selected on next program launch.
+- looks cropped and Wrong when launched because of wxpython limitations with rendering styled text
 
 ### advantages
 - works
