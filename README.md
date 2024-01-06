@@ -2,7 +2,7 @@
 ![image of two "BACK TO WORK" timers back-to-back. one is marked "WORKS". the other is marked "DOES NOT WORK".](https://github.com/workworklinux/workwork/assets/155671658/b66c0674-daf0-4d38-adc7-b1263dbc34ae)
 ![image of the working timer's menu open. "Empty Program Slots" is highlighted, marked "ONE NEW BUTTON!!"](https://github.com/workworklinux/workwork/assets/155671658/dcd944b3-0b3f-41e1-b93d-839b29a658b3)
 
-"cross-platform" python port of neil cicerega's WORK TIMER. rough aesthetic accuracy with a few minor new features. tested on linux mint 21.2, should work on any. mac may only work if run as root due to pynput library limitations.
+"cross-platform" python port of neil cicierega's WORK TIMER. rough aesthetic accuracy with a few minor new features. tested on linux mint 21.2, should work on any. mac may only work if run as root due to pynput library limitations.
 
 the original can be found on [neil's tumblr](https://neilblr.com/post/58757345346) or [site](https://www.neilcic.com/work.zip). if you are on windows you should use it instead.
 
